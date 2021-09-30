@@ -1,0 +1,5 @@
+# Myrres övningsuppgifter
+## Introkurs i webbutveckling:
+[Uppgift 3 - knapp som ändrar h1-elementets färg och text](https://amyrman.github.io/lsd-introkurs/uppgift-3/)
+
+[Uppgift 4 - att-göra-app](https://amyrman.github.io/lsd-introkurs/uppgift-4/)
