@@ -8,6 +8,6 @@
 
 ## Kurs 2: HTML/CSS
 
-[Uppgift 1 - Style ToDoodelidoo](https://github.com/amyrman/uppgift1-style-todo)
+[Uppgift 1 - Style ToDoodelidoo](https://amyrman.github.io/uppgift1-style-todo/)
 
 [Repo](https://github.com/amyrman/uppgift1-style-todo)
