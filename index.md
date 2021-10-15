@@ -5,3 +5,9 @@
 [Uppgift 4 - att-göra-app](https://amyrman.github.io/lsd-introkurs/uppgift-4/)
 
 [Länk till repo](https://github.com/amyrman/lsd-introkurs)
+
+## Kurs 2: HTML/CSS
+
+[Uppgift 1 - Style ToDoodelidoo](https://github.com/amyrman/uppgift1-style-todo)
+
+[Repo](https://github.com/amyrman/uppgift1-style-todo)
