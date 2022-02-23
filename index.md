@@ -8,7 +8,7 @@
 
 ## Course 2: HTML & CSS
 
-[Uppgift 1 - Style ToDo](https://amyrman.github.io/uppgift1-style-todo/)
+[Assignment 1 - Style ToDo](https://amyrman.github.io/uppgift1-style-todo/)
 
 [Repo](https://github.com/amyrman/uppgift1-style-todo)
 
