@@ -1,10 +1,10 @@
-# Övningsuppgifter – Lernia Fullstack Webbutveckling
+# Övningsuppgifter – Lernia webb- och systemutveckling Java & JavaScript
 ## Kurs 1: Introduktion till webbutveckling
 [Uppgift 3 - knapp som ändrar h1-elementets färg och text](https://amyrman.github.io/lsd-introkurs/uppgift-3/)
 
 [Uppgift 4 - att-göra-app](https://amyrman.github.io/lsd-introkurs/uppgift-4/)
 
-[Länk till repo](https://github.com/amyrman/lsd-introkurs)
+[Repo](https://github.com/amyrman/lsd-introkurs)
 
 ## Kurs 2: HTML & CSS
 
