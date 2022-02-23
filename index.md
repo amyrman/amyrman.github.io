@@ -15,4 +15,5 @@
 ## Kurs 6: Interaktionsdesign & användbarhet
 
 [Enskild uppgift 6](https://amyrman.github.io/lernia-c6-ia6/)
+
 [Repo](https://github.com/amyrman/lernia-c6-ia6)
