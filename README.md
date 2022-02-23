@@ -1,2 +1,2 @@
 # amyrman.github.io
-Repo for Lernia SysDev education assignments
+Repo for Github Pages
