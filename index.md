@@ -1,19 +1,19 @@
-# Övningsuppgifter – Lernia webb- och systemutveckling med Java & JavaScript
-## Kurs 1: Introduktion till webbutveckling
-[Uppgift 3 - knapp som ändrar h1-elementets färg och text](https://amyrman.github.io/lsd-introkurs/uppgift-3/)
+# Assignments – Lernia web- and system development using Java & JavaScript
+## Course 1: Introduction to web development
+[Assignment 3 - button that changes h1-elements color and text](https://amyrman.github.io/lsd-introkurs/uppgift-3/)
 
-[Uppgift 4 - att-göra-app](https://amyrman.github.io/lsd-introkurs/uppgift-4/)
+[Assignment 4 - ToDo-app](https://amyrman.github.io/lsd-introkurs/uppgift-4/)
 
 [Repo](https://github.com/amyrman/lsd-introkurs)
 
-## Kurs 2: HTML & CSS
+## Course 2: HTML & CSS
 
 [Uppgift 1 - Style ToDo](https://amyrman.github.io/uppgift1-style-todo/)
 
 [Repo](https://github.com/amyrman/uppgift1-style-todo)
 
-## Kurs 6: Interaktionsdesign & användbarhet
+## Course 6: UI/UX and usability
 
-[Enskild uppgift 6](https://amyrman.github.io/lernia-c6-ia6/)
+[Individual assignment 5](https://amyrman.github.io/lernia-c6-ia5/)
 
-[Repo](https://github.com/amyrman/lernia-c6-ia6)
+[Repo](https://github.com/amyrman/lernia-c6-ia5)
