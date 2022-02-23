@@ -8,6 +8,10 @@
 
 ## Kurs 2: HTML/CSS
 
-[Uppgift 1 - Style ToDoodelidoo](https://amyrman.github.io/uppgift1-style-todo/)
+[Uppgift 1 - Style ToDo](https://amyrman.github.io/uppgift1-style-todo/)
 
 [Repo](https://github.com/amyrman/uppgift1-style-todo)
+
+## Kurs 6: Interaktionsdesign & användbarhet
+
+[Enskild uppgift 6](https://amyrman.github.io/lernia-c6-ia6/)
