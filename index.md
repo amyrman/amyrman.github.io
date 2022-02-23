@@ -1,4 +1,4 @@
-# Myrres övningsuppgifter
+# Övningsuppgifter – Lernia Fullstack Webbutveckling
 ## Introkurs i webbutveckling:
 [Uppgift 3 - knapp som ändrar h1-elementets färg och text](https://amyrman.github.io/lsd-introkurs/uppgift-3/)
 
